@@ -5,7 +5,7 @@ import json, os, sys
 # pythonファイルをロード
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/../../")
 import mylib
-
+"test"
 
 # 設定ファイル（config.json）から設定情報を取得
 class Config:
